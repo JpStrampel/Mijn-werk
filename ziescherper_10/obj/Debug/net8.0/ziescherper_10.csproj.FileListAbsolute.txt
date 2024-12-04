@@ -1,0 +1,15 @@
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\bin\Debug\net8.0\ziescherper_10.exe
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\bin\Debug\net8.0\ziescherper_10.deps.json
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\bin\Debug\net8.0\ziescherper_10.runtimeconfig.json
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\bin\Debug\net8.0\ziescherper_10.dll
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\bin\Debug\net8.0\ziescherper_10.pdb
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.AssemblyInfoInputs.cache
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.AssemblyInfo.cs
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.csproj.CoreCompileInputs.cache
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.sourcelink.json
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.dll
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\refint\ziescherper_10.dll
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.pdb
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ziescherper_10.genruntimeconfig.cache
+C:\Users\Client\Documents\GitHub\oop-c-JpStrampel\OOP\ziescherper_10\obj\Debug\net8.0\ref\ziescherper_10.dll
